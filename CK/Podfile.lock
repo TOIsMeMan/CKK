@@ -1,0 +1,20 @@
+PODS:
+  - SwiftGen (6.6.3)
+  - SwiftHEXColors (1.4.1)
+
+DEPENDENCIES:
+  - SwiftGen
+  - SwiftHEXColors
+
+SPEC REPOS:
+  trunk:
+    - SwiftGen
+    - SwiftHEXColors
+
+SPEC CHECKSUMS:
+  SwiftGen: 4993cbf71cbc4886f775e26f8d5c3a1188ec9f99
+  SwiftHEXColors: 1cb6e5d55c52749aa33db8f088ac55eb71ca4c7f
+
+PODFILE CHECKSUM: 0794b736d65fbde85623ff47630ac2780dce5978
+
+COCOAPODS: 1.11.3
